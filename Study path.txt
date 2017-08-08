@@ -1,0 +1,19 @@
+1. Process : -- Rabindababur video 
+2.Thread : 
+	Udacity , 
+	https://www.youtube.com/watch?v=4BInccFSKso&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD&index=1 (knowledge gate )
+	https://www.youtube.com/watch?v=PqV6ogp9Ajg&index=5&list=PLKMMmxh_kxS1HKE8Katuh-HFtz7uoHc41 (mr education world)
+
+3. DeadLock
+	https://www.youtube.com/watch?v=PqV6ogp9Ajg&index=5&list=PLKMMmxh_kxS1HKE8Katuh-HFtz7uoHc41 (mr education world)
+
+3. Memory management : 
+        versity slides
+	https://www.youtube.com/watch?v=4BInccFSKso&list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD&index=1 (knowledge gate )
+	https://www.youtube.com/watch?v=PqV6ogp9Ajg&index=5&list=PLKMMmxh_kxS1HKE8Katuh-HFtz7uoHc41 (mr education world)
+
+4. All below others of  
+	https://www.youtube.com/watch?v=PqV6ogp9Ajg&index=5&list=PLKMMmxh_kxS1HKE8Katuh-HFtz7uoHc41 (mr education world)
+
+
+(All of knowledge gate  and mr education world ).
